@@ -1,4 +1,4 @@
 test
 ====
 
-th is only a test
+this only a test
