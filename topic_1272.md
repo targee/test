@@ -10,7 +10,7 @@
 
 <p>九型人格學（Enneagram）中，將人類個性分為九種互相關聯的人格，因為學派的不同有稍微有不同的變化，但大致可以分為：doer, networker, analyst, chairman, perfectionist, feeling-good person, problem solver, challenger and expert 九種。這樣的工具，常被用於工作場合上，做分類及深入了解每位員工的個性及整體形成工作環境。</p>
 
-<p><img src="/uploads/default/original/1X/213e6c74578e0212d6f72a65721e0df61b3ff065.jpg" width="497" height="500"></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/213e6c74578e0212d6f72a65721e0df61b3ff065.jpg" width="497" height="500"></p>
 
 <p>每個人會進入這個團隊，就是因為有他們各自的特性、各自的長處，有能力去發掘自身潛力，也有願意幫助別人開發潛力的心胸。從了解自己，了解團隊開始，便能漸漸的找出自己的業務內容。</p>
 
