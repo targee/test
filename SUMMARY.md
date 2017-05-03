@@ -1,6 +1,7 @@
 # Summary
 
 * [對於分類：Open Government 的定義](topic_653.md)
+* [2-1 PO 的定位與角色](topic_1265.md)
 * [3-4 政策與服務設計](topic_1278.md)
 * [開放政府問問題-總則篇](topic_654.md)
 * [開放政府問問題-po篇](topic_655.md)
@@ -10,7 +11,6 @@
 * [1-2 開放政府聯絡機制](topic_1262.md)
 * [1-3 PDIS 小組](topic_1263.md)
 * [第二章 開放政府聯絡人](topic_1264.md)
-* [2-1 PO 的定位與角色](topic_1265.md)
 * [2-2 PO 的業務 如何當個稱職的 PO ？](topic_1272.md)
 * [2-3 PO 的難處](topic_1273.md)
 * [第三章 政策與服務形成流程與協作工具介紹](topic_1274.md)
