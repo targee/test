@@ -6,7 +6,7 @@
 
 <p>在協作會議建議業務單位與PO一起準備議題相關資料，在會議前把資料全部看過，並做個議題發展討論脈落整理，目的是讓大家可以在協作會議中更專注去進行尚未討論過、尚未有結論、尚未有共識的問題，避免之前會議開過的內容在協作會議中又重新討論。</p>
 
-<p><strong>步驟1. 利害關係人盤點並邀請至協作會議</strong><br><strong>（補充邀請規則：中央部會清單提供給政委辦公室致-翔協助邀請、相關組織/廠商以及提案人與連署人由由業務單位直接邀請）</strong></p>
+<p><strong>步驟1. 利害關係人盤點並邀請至協作會議</strong><br><strong>（補充邀請規則：中央部會清單提供給政委辦公室致翔協助邀請、相關組織/廠商以及提案人與連署人由由業務單位直接邀請）</strong></p>
 
 <p>做利害關係人盤點並邀請至協作會議目的是，讓各方與此議題有關的政府單位、相關團體、廠商、民眾，有機會聽見彼此的意見並協作，這這個協作會議發揮真正「協作」的精神。舉開放政府聯絡人第3次協作會議（2017.03.31計畫管理法案臺灣版一案）為例，國發會為此議題的主責機關，認為此議題與「行政院科技會報辦公室」、「行政院主計總處」、「行政院公共工程委員會」都有關連，需要大家一起出席才能周全研議。再舉開放政府聯絡人第4次協作會議（2017.04.21解除禁行機慢車道、強制二段式左轉一案）為例，交通度為此議題的主責機關，除了政府跨部會邀請外，也邀請了相關組織，如「機車路權促進會」、「貨運同業工會」。這個部分也需要二位提供希望加邀的相關部會、團體、廠商清單，並告知二位與提案人、連署人邀請情形。</p>
 
@@ -46,13 +46,13 @@
 
 <h3>問題盤點並歸納輔助方法1 :議題分析表</h3>
 
-<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、胃癌希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/4eb1a6d016d5181b492a687c12986c278bc2e70a" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" class="lightbox" title="image.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a_1_690x447.png" width="690" height="447"><div class="meta">
+<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、未來希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/4eb1a6d016d5181b492a687c12986c278bc2e70a" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" class="lightbox" title="image.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a_1_690x447.png" width="690" height="447"><div class="meta">
 <span class="filename">image.png</span><span class="informations">1510x980 378 KB</span><span class="expand"></span>
 </div></a></div></p>
 
 <h3>問題盤點並歸納輔助方法2 :心智圖法(Mind Mapping)</h3>
 
-<p>心智圖法是一種思想歸納與紀錄的方法，它能夠有系統性地整理在大議題下的子議題與問題，在日後研議討論時，幫助與會同仁能夠在相同的資料背景與脈絡去討論，提高會議的效率。在研議問題時，常常也會將可能解決辦法一同提出，但在這個階段最重要的是把問題釐清而非馬上想出解決問題的方法，能夠透過心智圖法將在這階段提出的解決辦法另外標記，除了能避免草率想出解決辦法外，也能幫助將解決辦法記錄下來，作為日後研議解決辦法的素材之一。<br>大圖(2017.03.24國產車撞擊測試分級並公開結果一案）請見：<a href="https://realtimeboard.com/app/board/o9J_k052DeM=/">https://realtimeboard.com/app/board/o9J_k052DeM=/</a></p>
+<p>心智圖法，是一種思想歸納與紀錄的方法，它能夠有系統性地整理在大議題下的子議題與問題，在日後研議討論時，幫助與會同仁能夠在相同的資料背景與脈絡去討論，提高會議的效率。在研議問題時，常常也會將可能解決辦法一同提出，但在這個階段最重要的是把問題釐清而非馬上想出解決問題的方法，能夠透過心智圖法將在這階段提出的解決辦法另外標記，除了能避免草率想出解決辦法外，也能幫助將解決辦法記錄下來，作為日後研議解決辦法的素材之一。<br>大圖(2017.03.24國產車撞擊測試分級並公開結果一案）請見：<a href="https://realtimeboard.com/app/board/o9J_k052DeM=/">https://realtimeboard.com/app/board/o9J_k052DeM=/</a></p>
 
 <p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/5a0b56fa93c5275a554bbd945beb11c53a17cccb" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb.jpg" class="lightbox" title="blob.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb_1_690x344.jpg" width="690" height="344"><div class="meta">
 <span class="filename">blob.jpg</span><span class="informations">1578x788 247 KB</span><span class="expand"></span>
