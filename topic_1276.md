@@ -18,8 +18,6 @@
 
 <p>b. 釐清期待的解決方式：解決問題的方式有很多種，可以先釐清提案人的想像，有時候提案人期待的解決方式已經有了，只是他不知道。如果目前沒有提案人想像的協作方式，可以保留提案人建議，納入內部研議的解決辦法，最後採取辦法還是以承辦單位研議結果為主，研議過程如果能納入更多利害關係者的意見會比較好。</p>
 
-<h3>方法1 :資料搜集 (Desktop Research)</h3>
-
 <p><strong>步驟3. 相關資料搜集與重點節錄與原始資料提供</strong></p>
 
 <p>做相關資料搜集與重點節錄目的是確保議題研議時，能有足夠且多元的資料來輔助，常常提案人的訴求是侷限的，對議題的理解度不夠全面，有足夠資料能幫助導正訴求到一個比較有建設性的方向。</p>
@@ -46,7 +44,13 @@
 
 <h2>如何盤點並歸納研究內容？</h2>
 
-<h3>問題盤點並歸納輔助方法1 :心智圖法(Mind Mapping)</h3>
+<h3>問題盤點並歸納輔助方法1 :議題分析表</h3>
+
+<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、胃癌希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/4eb1a6d016d5181b492a687c12986c278bc2e70a" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" class="lightbox" title="image.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a_1_690x447.png" width="690" height="447"><div class="meta">
+<span class="filename">image.png</span><span class="informations">1510x980 378 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<h3>問題盤點並歸納輔助方法2 :心智圖法(Mind Mapping)</h3>
 
 <p>心智圖法是一種思想歸納與紀錄的方法，它能夠有系統性地整理在大議題下的子議題與問題，在日後研議討論時，幫助與會同仁能夠在相同的資料背景與脈絡去討論，提高會議的效率。在研議問題時，常常也會將可能解決辦法一同提出，但在這個階段最重要的是把問題釐清而非馬上想出解決問題的方法，能夠透過心智圖法將在這階段提出的解決辦法另外標記，除了能避免草率想出解決辦法外，也能幫助將解決辦法記錄下來，作為日後研議解決辦法的素材之一。<br>大圖(2017.03.24國產車撞擊測試分級並公開結果一案）請見：<a href="https://realtimeboard.com/app/board/o9J_k052DeM=/">https://realtimeboard.com/app/board/o9J_k052DeM=/</a></p>
 
